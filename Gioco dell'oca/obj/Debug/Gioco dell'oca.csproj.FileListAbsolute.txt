@@ -1,0 +1,6 @@
+c:\users\junkex\documents\visual studio 2013\Projects\Gioco dell'oca\Gioco dell'oca\bin\Debug\Gioco dell'oca.exe.config
+c:\users\junkex\documents\visual studio 2013\Projects\Gioco dell'oca\Gioco dell'oca\bin\Debug\Gioco dell'oca.exe
+c:\users\junkex\documents\visual studio 2013\Projects\Gioco dell'oca\Gioco dell'oca\bin\Debug\Gioco dell'oca.pdb
+c:\users\junkex\documents\visual studio 2013\Projects\Gioco dell'oca\Gioco dell'oca\obj\Debug\Gioco dell'oca.csprojResolveAssemblyReference.cache
+c:\users\junkex\documents\visual studio 2013\Projects\Gioco dell'oca\Gioco dell'oca\obj\Debug\Gioco dell'oca.exe
+c:\users\junkex\documents\visual studio 2013\Projects\Gioco dell'oca\Gioco dell'oca\obj\Debug\Gioco dell'oca.pdb

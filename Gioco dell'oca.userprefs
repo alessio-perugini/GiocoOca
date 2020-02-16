@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Gioco dell'oca\GiocoDellOca.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Gioco dell'oca\Principale.cs">
+    <Files>
+      <File FileName="Gioco dell'oca\Metodi.cs" Line="1" Column="1" />
+      <File FileName="Gioco dell'oca\Principale.cs" Line="24" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
